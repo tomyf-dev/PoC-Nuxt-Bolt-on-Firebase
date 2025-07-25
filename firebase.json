@@ -19,7 +19,7 @@
   "emulators": {
     "apphosting": {
       "port": 5002,
-      "rootDirectory": "./"
+      "rootDirectory": "./apphosting"
     },
     "firestore": {
       "port": 8080
